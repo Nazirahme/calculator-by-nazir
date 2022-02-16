@@ -1,1 +1,1 @@
-# calculator-by-dilshad
+# calculator-by-nazir
